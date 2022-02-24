@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#333",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "space-around",
+        "paddingBottom": 0,
+        "paddingLeft": 30,
+        "paddingRight": 30,
+        "paddingTop": 0,
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#fff",
+          "fontSize": 20,
+          "fontWeight": "bold",
+        },
+      ]
+    }
+  >
+    Home Page
+  </Text>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#fff",
+          "fontSize": 16,
+        },
+      ]
+    }
+  >
+    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  </Text>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#836FFF",
+        "borderRadius": 4,
+        "height": 40,
+        "justifyContent": "center",
+        "marginTop": 50,
+        "opacity": 1,
+        "width": "50%",
+      }
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#fff",
+            "fontSize": 16,
+          },
+        ]
+      }
+    >
+      Clique Aqui
+    </Text>
+  </View>
+</View>
+`;
